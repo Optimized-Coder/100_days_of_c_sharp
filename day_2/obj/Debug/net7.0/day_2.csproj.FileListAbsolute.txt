@@ -1,0 +1,15 @@
+C:\Users\joshu\Documents\100_days of_c_sharp\day_2\bin\Debug\net7.0\day_2.exe
+C:\Users\joshu\Documents\100_days of_c_sharp\day_2\bin\Debug\net7.0\day_2.deps.json
+C:\Users\joshu\Documents\100_days of_c_sharp\day_2\bin\Debug\net7.0\day_2.runtimeconfig.json
+C:\Users\joshu\Documents\100_days of_c_sharp\day_2\bin\Debug\net7.0\day_2.dll
+C:\Users\joshu\Documents\100_days of_c_sharp\day_2\bin\Debug\net7.0\day_2.pdb
+C:\Users\joshu\Documents\100_days of_c_sharp\day_2\obj\Debug\net7.0\day_2.csproj.AssemblyReference.cache
+C:\Users\joshu\Documents\100_days of_c_sharp\day_2\obj\Debug\net7.0\day_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshu\Documents\100_days of_c_sharp\day_2\obj\Debug\net7.0\day_2.AssemblyInfoInputs.cache
+C:\Users\joshu\Documents\100_days of_c_sharp\day_2\obj\Debug\net7.0\day_2.AssemblyInfo.cs
+C:\Users\joshu\Documents\100_days of_c_sharp\day_2\obj\Debug\net7.0\day_2.csproj.CoreCompileInputs.cache
+C:\Users\joshu\Documents\100_days of_c_sharp\day_2\obj\Debug\net7.0\day_2.dll
+C:\Users\joshu\Documents\100_days of_c_sharp\day_2\obj\Debug\net7.0\refint\day_2.dll
+C:\Users\joshu\Documents\100_days of_c_sharp\day_2\obj\Debug\net7.0\day_2.pdb
+C:\Users\joshu\Documents\100_days of_c_sharp\day_2\obj\Debug\net7.0\day_2.genruntimeconfig.cache
+C:\Users\joshu\Documents\100_days of_c_sharp\day_2\obj\Debug\net7.0\ref\day_2.dll
